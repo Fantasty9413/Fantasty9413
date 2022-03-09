@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in Sichuan University.
 - 🚀 My major is Control science and engineering.
-- 🌱 I’m currently studying assessment algrothim for aircraft and elevator.
+- 🌱 I’m currently studying risk assessment work for UA and elevator.
 - 🤔 I’m interested in C++.
 - 📫 How to reach me: liqiyang@stu.scu.edu.cn.
 
