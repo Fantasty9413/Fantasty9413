@@ -5,9 +5,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in Sichuan University.
-- 🚀 My major is Control science and engineering.
+- 🚀 My major is Electronics and Information Engineering.
 - 🌱 I’m currently studying risk assessment work for UA and elevator.
-- 🤔 I’m interested in C++.
+- 🤔 I’m interested in C++ and Linux.
+- ➡️ I'm writing blog sometimes: https://blog.csdn.net/fantasty9413.
 - 📫 How to reach me: liqiyang@stu.scu.edu.cn.
 
 
