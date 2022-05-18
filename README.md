@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: liqiyang@stu.scu.edu.cn.
 
 
-：[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fantasty9413)](https://github.com/anuraghazra/github-readme-stats)
+：[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fantasty9413&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
